@@ -1,4 +1,5 @@
 #Requires -Version 5.1
+
 <#
 .SYNOPSIS
     Read-only review of Microsoft Edge and Copilot: extensions, policies, launch settings,

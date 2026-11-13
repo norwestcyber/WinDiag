@@ -21,7 +21,7 @@ It then correlates them. A broken update on its own is usually environmental. A 
 | `Test-EdgeCopilot.ps1` | Edge and Copilot review: extensions, policies, launch flags, native messaging, Copilot apps, AI agent connectors. Can run on its own. |
 | `Common.ps1` | Shared helpers (scoring, signatures, report). Not run directly. |
 
-Hardening (firewall cleanup, bloatware removal, services, security settings) lives in the separate **WinHardening** repository (`Set-WindowsHardening.ps1`). It changes the system, so it is kept apart from this read-only toolkit.
+Hardening (firewall cleanup, bloatware removal, services, security settings) lives in the separate [WinHarden](https://github.com/norwestcyber/WinHarden) repository (`Set-WindowsHardening.ps1`). It changes the system, so it is kept apart from this read-only toolkit.
 
 Keep all files in the same folder. Requires Windows 10/11 or Server 2016+ with Windows PowerShell 5.1 (built in) or PowerShell 7.
 

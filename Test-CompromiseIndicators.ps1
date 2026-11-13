@@ -1,4 +1,5 @@
 #Requires -Version 5.1
+
 <#
 .SYNOPSIS
     Read-only sweep for common indicators of compromise on a Windows machine.

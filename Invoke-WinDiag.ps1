@@ -1,4 +1,5 @@
 ﻿#Requires -Version 5.1
+
 <#
 .SYNOPSIS
     Runs the WinDiag toolkit: Windows Update health, compromise indicators, and an Edge/Copilot

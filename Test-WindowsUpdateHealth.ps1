@@ -1,4 +1,5 @@
 ﻿#Requires -Version 5.1
+
 <#
 .SYNOPSIS
     Diagnoses Windows Update failures and separates ordinary causes from tampering.
